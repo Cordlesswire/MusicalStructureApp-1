@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="about_activity">About</string>
+    <string name="library_activity">Library</string>
+    <string name="now_playing_activity">Now Playing</string>
+    <string name="about_screen_content">This screen will contain information about app author and available ways to contact app support</string>
+    <string name="library_screen_content">This screen will present available songs. It might use database to store data about songs owned by user.</string>
+    <string name="now_playing_content">This screen will present songs that is currenty playing. It will use MediaPlayer class.</string>
+</resources>
